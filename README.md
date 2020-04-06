@@ -15,4 +15,4 @@ Watch the [Demo Video](https://www.youtube.com/watch?v=8nKci7h8wNw&feature=youtu
 3. Start the server with ```python3 main.py```
 
 ## Team
-Home Recipes was created by Timothy Goh (tGoh98), Michael Sprintson (michaelsprintson), Camsy Huang, and Christina Zhou for UTSA's hackathon, RowdyHack. Read more about it in the [Devpost](https://devpost.com/software/homerecipes).
+Home Recipes was created by Timothy Goh (tGoh98), Michael Sprintson (michaelsprintson & firemike0), Camsy Huang, and Christina Zhou for UTSA's hackathon, RowdyHack. Read more about it in the [Devpost](https://devpost.com/software/homerecipes).
